@@ -34,6 +34,7 @@ public class Main {
         else {
             System.out.println("You have defeated all the bosses");
         }
+        System.out.print("hi");
     }
 
     /**
